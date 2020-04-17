@@ -1,4 +1,7 @@
-# Mina
+## Mina
+
+![widokmina](https://user-images.githubusercontent.com/63725366/79580260-0e01c400-80c9-11ea-9298-db4629da7880.JPG)
+
 ===============Opis obsługi gry: Mina=============
 
 Gra polgająca na znalezieniu min na podstawie sąsiednich pól mówiących o ilości min w obrębie wskazanego pola. 
